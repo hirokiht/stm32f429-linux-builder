@@ -1,8 +1,6 @@
 # fetched sources
 /downloads
 /busybox-*
-/u-boot
-/uclinux
 
 # generated
 /out
